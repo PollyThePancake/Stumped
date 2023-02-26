@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "stumped",
+	"version": "${version}",
+	"name": "Stumped",
+	"description": "A Minecraft Fabric mod that adds new trees to Minecraft and more!",
+	"authors": [
+		"PollyThePancake"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/stumped",
+		"sources": "https://github.com/PollyThePancake/Stumped",
+		"issues": "https://github.com/PollyThePancake/Stumped/issues",
+		"modrinth": "https://modrinth.com/mod/stumped",
+		"curseforge": "https://www.curseforge.com/minecraft/mc-mods/stumped"
+	},
+	"license": "GLWTPL",
+	"icon": "assets/stumped/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.pollythepancake.stumped.ModInit"
+		],
+		"client": [
+			"io.github.pollythepancake.stumped.ModClientInit"
+		],
+		"fabric-datagen": [
+			"io.github.pollythepancake.stumped.dataGen.DataGen"
+		]
+	},
+	"mixins": [
+		"stumped.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.10",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

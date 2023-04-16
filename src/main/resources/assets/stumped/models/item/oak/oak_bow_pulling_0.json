@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/oak/oak_bow",
+  "textures": {
+    "layer0": "stumped:item/oak/oak_bow_pulling_0"
+  }
+}

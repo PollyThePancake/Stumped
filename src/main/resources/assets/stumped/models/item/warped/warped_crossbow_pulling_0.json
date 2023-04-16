@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/warped/warped_crossbow",
+  "textures": {
+    "layer0": "stumped:item/warped/warped_crossbow_pulling_0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/mangrove/mangrove_bow",
+  "textures": {
+    "layer0": "stumped:item/mangrove/mangrove_bow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+accessWidener v1 named
+
+accessible field net/minecraft/world/poi/PointOfInterestType blockStates Ljava/util/Set;
+mutable field net/minecraft/world/poi/PointOfInterestType blockStates Ljava/util/Set;
+accessible class net/minecraft/client/render/item/BuiltinModelItemRenderer
+accessible class net/minecraft/resource/ResourceManager

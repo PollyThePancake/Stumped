@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/crimson/crimson_bow",
+  "textures": {
+    "layer0": "stumped:item/crimson/crimson_bow_pulling_1"
+  }
+}

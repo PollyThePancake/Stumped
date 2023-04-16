@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/spruce/spruce_crossbow",
+  "textures": {
+    "layer0": "stumped:item/spruce/spruce_crossbow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/jungle/jungle_bow",
+  "textures": {
+    "layer0": "stumped:item/jungle/jungle_bow_pulling_0"
+  }
+}

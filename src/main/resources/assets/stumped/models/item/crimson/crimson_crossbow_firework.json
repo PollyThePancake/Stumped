@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/crimson/crimson_crossbow",
+  "textures": {
+    "layer0": "stumped:item/crimson/crimson_crossbow_firework"
+  }
+}

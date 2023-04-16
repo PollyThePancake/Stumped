@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/oak/oak_crossbow",
+  "textures": {
+    "layer0": "stumped:item/oak/oak_crossbow_arrow"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/spruce/spruce_bow",
+  "textures": {
+    "layer0": "stumped:item/spruce/spruce_bow_pulling_0"
+  }
+}

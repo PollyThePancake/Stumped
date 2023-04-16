@@ -55,3 +55,10 @@ Stumped is a mod that adds more types of trees to Minecraft, each with their own
 - Fruit Salads
 - A leaf for every type of tree that can be kept to index them all
 - When 1.20 comes out, more variants of the cherry blossom trees
+
+## Links:
+
+- Stumped's [Modrinth](https://modrinth.com/mod/stumped) Page
+- Stumped's [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stumped) Page
+- My [Github](https://github.com/PollyThePancake) Page
+- My [Twitter](https://twitter.com/PollyThePancake) Profile

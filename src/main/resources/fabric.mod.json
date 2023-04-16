@@ -2,26 +2,37 @@
   "schemaVersion": 1,
   "id": "stumped",
   "version": "${version}",
-
   "name": "Stumped",
   "description": "A Minecraft Quilt mod that adds new trees to Minecraft and more!",
-  "authors": [ "PollyThePancake" ],
+  "authors": [
+    "PollyThePancake"
+  ],
   "contact": {
     "homepage": "https://modrinth.com/mod/stumped",
     "sources": "https://github.com/PollyThePancake/Stumped",
     "issues": "https://github.com/PollyThePancake/Stumped/issues"
   },
-
   "license": "GLWTPL",
   "icon": "assets/stumped/icon.png",
-
   "environment": "*",
   "entrypoints": {
-    "main": [ "com.polly.stumped.Stumped" ],
-    "terrablender": [ "com.polly.stumped.Stumped" ]
+    "main": [
+      "io.github.pollythepancake.stumped.ModInit"
+    ],
+    "client": [
+      "io.github.pollythepancake.stumped.ModClientInit"
+    ],
+    "terrablender": [
+      "io.github.pollythepancake.stumped.ModInit"
+    ],
+    "preLaunch": [
+      "io.github.pollythepancake.stumped.PreLaunch"
+    ]
   },
-  "mixins": [ "stumped.mixins.json" ],
-
+  "mixins": [
+    "stumped.mixins.json"
+  ],
+  "accessWidener" : "stumped.accesswidener",
   "depends": {
     "fabricloader": ">=0.14.14",
     "fabric": "*",

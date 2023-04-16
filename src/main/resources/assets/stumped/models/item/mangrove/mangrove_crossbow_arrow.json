@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/mangrove/mangrove_crossbow",
+  "textures": {
+    "layer0": "stumped:item/mangrove/mangrove_crossbow_arrow"
+  }
+}

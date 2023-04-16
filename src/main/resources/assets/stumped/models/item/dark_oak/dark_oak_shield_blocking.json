@@ -1,0 +1,6 @@
+{
+  "parent": "fabricshieldlib:item/fabric_banner_shield_blocking",
+  "textures": {
+    "shield": "stumped:item/dark_oak/dark_oak_shield"
+  }
+}

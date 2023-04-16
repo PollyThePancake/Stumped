@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "stumped:block/araucaria/araucaria_planks"
+  }
+}

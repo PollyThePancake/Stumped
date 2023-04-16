@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/araucaria/araucaria_bow",
+  "textures": {
+    "layer0": "stumped:item/araucaria/araucaria_bow_pulling_1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/acacia/acacia_crossbow",
+  "textures": {
+    "layer0": "stumped:item/acacia/acacia_crossbow_pulling_2"
+  }
+}

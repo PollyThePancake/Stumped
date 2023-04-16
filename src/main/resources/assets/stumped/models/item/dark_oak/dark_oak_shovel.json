@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "stumped:item/dark_oak/dark_oak_shovel"
+  }
+}

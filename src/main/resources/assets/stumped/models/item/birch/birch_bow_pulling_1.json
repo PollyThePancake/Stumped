@@ -1,0 +1,6 @@
+{
+  "parent": "stumped:item/birch/birch_bow",
+  "textures": {
+    "layer0": "stumped:item/birch/birch_bow_pulling_1"
+  }
+}

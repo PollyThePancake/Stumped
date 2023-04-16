@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "stumped:block/araucaria/araucaria_door_bottom",
+    "top": "stumped:block/araucaria/araucaria_door_top"
+  }
+}

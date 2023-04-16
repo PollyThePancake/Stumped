@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "stumped:block/araucaria/araucaria_planks",
+    "side": "stumped:block/araucaria/araucaria_planks",
+    "top": "stumped:block/araucaria/araucaria_planks"
+  }
+}

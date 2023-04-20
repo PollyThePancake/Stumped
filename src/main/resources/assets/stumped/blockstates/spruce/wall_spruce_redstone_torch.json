@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch_off"
+    },
+    "facing=east,lit=true": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch"
+    },
+    "facing=north,lit=false": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch_off",
+      "y": 270
+    },
+    "facing=north,lit=true": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch",
+      "y": 270
+    },
+    "facing=south,lit=false": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch_off",
+      "y": 90
+    },
+    "facing=south,lit=true": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch",
+      "y": 90
+    },
+    "facing=west,lit=false": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch_off",
+      "y": 180
+    },
+    "facing=west,lit=true": {
+      "model": "stumped:block/spruce/wall_spruce_redstone_torch",
+      "y": 180
+    }
+  }
+}

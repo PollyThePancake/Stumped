@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "stumped:block/crimson/crimson_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "stumped:block/crimson/crimson_redstone_torch"
+    }
+  }
+}

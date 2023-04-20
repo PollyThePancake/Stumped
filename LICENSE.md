@@ -10,8 +10,8 @@ OWN RISK.
 The author has absolutely no fucking clue what the code in this project
 does. It might just fucking work or not, there is no third option.
 
-
                 GOOD LUCK WITH THAT SHIT PUBLIC LICENSE
+
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
 
 0. You just DO WHATEVER THE FUCK YOU WANT TO as long as you NEVER LEAVE

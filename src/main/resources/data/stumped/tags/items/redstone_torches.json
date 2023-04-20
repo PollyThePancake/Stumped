@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "stumped:acacia/acacia_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:birch/birch_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:crimson/crimson_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:dark_oak/dark_oak_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:jungle/jungle_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:oak/oak_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:mangrove/mangrove_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:spruce/spruce_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:warped/warped_redstone_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:araucaria/araucaria_redstone_torch",
+      "required": false
+    }
+  ]
+}

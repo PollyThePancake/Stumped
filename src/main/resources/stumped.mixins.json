@@ -4,13 +4,13 @@
   "package": "io.github.pollythepancake.stumped.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "CrossbowArmMixin",
+    "ShieldMixin",
     "SignMixin",
-    "SignTypeAccessorMixin"
+    "SignTypeMixin"
   ],
   "client": [
-    "ShieldMixin",
     "BowFOVMixin",
+    "CrossbowArmMixin",
     "CrossbowHoldMixin"
   ],
   "injectors": {

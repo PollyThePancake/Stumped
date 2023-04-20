@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "stumped:block/oak/oak_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "stumped:block/oak/oak_redstone_torch"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "stumped:acacia/acacia_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:birch/birch_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:crimson/crimson_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:dark_oak/dark_oak_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:jungle/jungle_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:oak/oak_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:mangrove/mangrove_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:spruce/spruce_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:warped/warped_torch",
+      "required": false
+    },
+    {
+      "id": "stumped:araucaria/araucaria_torch",
+      "required": false
+    }
+  ]
+}

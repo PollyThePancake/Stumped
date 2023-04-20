@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "stumped:block/dark_oak/dark_oak_soul_torch"
+  }
+}

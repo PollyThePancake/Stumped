@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "stumped:block/araucaria/araucaria_redstone_torch"
+  }
+}

@@ -1,6 +1,7 @@
 package io.github.pollythepancake.stumped;
 
 import io.github.pollythepancake.stumped.blocks.AraucariaBlocks;
+import io.github.pollythepancake.stumped.blocks.vanilla.*;
 import io.github.pollythepancake.stumped.items.AraucariaItems;
 import io.github.pollythepancake.stumped.items.vanilla.*;
 import net.fabricmc.api.ModInitializer;
@@ -22,7 +23,7 @@ public class ModInit implements ModInitializer, TerraBlenderApi {
         BirchItems.registerBirchItems();
         JungleItems.registerJungleItems();
         AcaciaItems.registerAcaciaItems();
-        DarkOakItems.registerDark_OakItems();
+        DarkOakItems.registerDarkOakItems();
         CrimsonItems.registerCrimsonItems();
         WarpedItems.registerWarpedItems();
         MangroveItems.registerMangroveItems();
@@ -31,13 +32,22 @@ public class ModInit implements ModInitializer, TerraBlenderApi {
 
 
         // Blocks
+        OakBlocks.registerOakBlocks();
+        SpruceBlocks.registerSpruceBlocks();
+        BirchBlocks.registerBirchBlocks();
+        JungleBlocks.registerJungleBlocks();
+        AcaciaBlocks.registerAcaciaBlocks();
+        DarkOakBlocks.registerDarkOakBlocks();
+        CrimsonBlocks.registerCrimsonBlocks();
+        WarpedBlocks.registerWarpedBlocks();
+        MangroveBlocks.registerMangroveBlocks();
+
         AraucariaBlocks.registerAraucariaBlocks();
 
     }
 
     @Override
-    public void onTerraBlenderInitialized()
-    {
+    public void onTerraBlenderInitialized() {
 
     }
 }

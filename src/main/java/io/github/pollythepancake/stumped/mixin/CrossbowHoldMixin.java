@@ -2,7 +2,7 @@ package io.github.pollythepancake.stumped.mixin;
 
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;
-import io.github.pollythepancake.stumped.items.custom.weapons.CustomCrossbow;
+import io.github.pollythepancake.stumped.items.custom.weapons.CustomCrossbowItem;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.render.item.HeldItemRenderer;
@@ -21,7 +21,7 @@ public class CrossbowHoldMixin {
     )
     private boolean Stumped$crossbowFirstPerson(ItemStack stack, Item item, Operation<Boolean> original) {
         if (item == Items.CROSSBOW) {
-            return original.call(stack, item) || stack.getItem() instanceof CustomCrossbow;
+            return original.call(stack, item) || stack.getItem() instanceof CustomCrossbowItem;
         } else {
             return original.call(stack, item);
         }

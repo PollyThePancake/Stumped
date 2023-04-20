@@ -1,64 +1,72 @@
-# Welcome to Stumped, a mod for Minecraft!
+# Welcome to Stumped
 
-## What does it do?
+Stumped is a Minecraft Fabric 1.19.2 mod that intends to add new wood types with accompanying blocks and biomes.
 
-Stumped is a mod that adds more types of trees to Minecraft, each with their own blocks, boats, signs and more!
+As of right now Stumped is in active development so some key features are not yet implemented but are planned
 
-## What features does it currently have?
+## Current features
 
-#### As of now, the only trees added are:
+<details>
+  <summary><h4>Wood types that are added:</h4></summary>
 
-- Monkey Puzzle Trees (Araucaria)
+- [Araucaria](https://en.wikipedia.org/wiki/Araucaria) (Monkey Puzzle)
 
-#### All wood types that Stumped adds will contain their own variants of:
+</details>
+<details>
+  <summary><h4>Items added for each wood type:</h4></summary>
 
-- Saplings
-- Leaves
+- Planks
 - Logs
 - Stripped Logs
-- Wood (All Sided Log)
+- Wood
 - Stripped Wood
-- Planks
+- Leaves
 - Slabs
 - Stairs
+- Signs
 - Doors
 - Trapdoors
 - Fences
 - Fence Gates
-- Signs
-- Buttons
 - Pressure Plates
+- Buttons
+- Saplings
+- Potted Saplings
+- Ladders
+- Torches
+- Soul Torches
+- Redstone Torches
 - Boats
 
+</details>
 
-#### Stumped also adds unique variants of:
+## What I will add for v0.3.0
+
+- Crafting recipes
+- Replace outdated textures
+
+## Features to add for v1.0.0
 
 - Chests
 - Trapped Chests
-- Ladders
-- Item Frame
-- Biomes
+- At least 1 new  wood type
+- Biomes for the new trees
 
-#### Some wood types even contain unique fruits and drops
+## Things I intend to add later down the line
 
-## What do I intend to add to Stumped?
-
-#### I plan on adding:
-
-- Pear Trees
-- Orange Trees
-- Fir Tree
-- Sycamore Trees
-- Palm Trees
-- Icecream Flavours
-- Cheesecake Flavours
-- Fruit Salads
+- Fruit drops or unique drops from certain trees
+- Ice cream, cheesecakes and fruit salads from those new fruits
 - A leaf for every type of tree that can be kept to index them all
 - When 1.20 comes out, more variants of the cherry blossom trees
 
-## Links:
+## Dependency Mods
+
+- [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.19.2)
+- [Terrablender](https://modrinth.com/mod/terrablender/versions?l=fabric&g=1.19.2)
+
+## Other Links
 
 - Stumped's [Modrinth](https://modrinth.com/mod/stumped) Page
 - Stumped's [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stumped) Page
-- My [Github](https://github.com/PollyThePancake) Page
+- My [GitHub](https://github.com/PollyThePancake) Page
 - My [Twitter](https://twitter.com/PollyThePancake) Profile

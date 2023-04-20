@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch_wall",
+  "textures": {
+    "torch": "stumped:block/warped/warped_redstone_torch"
+  }
+}

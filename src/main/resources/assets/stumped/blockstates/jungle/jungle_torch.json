@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stumped:block/jungle/jungle_torch"
+    }
+  }
+}

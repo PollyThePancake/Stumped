@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "stumped:block/araucaria/araucaria_planks" }
+    "": {
+      "model": "stumped:block/araucaria/araucaria_planks"
+    }
   }
 }

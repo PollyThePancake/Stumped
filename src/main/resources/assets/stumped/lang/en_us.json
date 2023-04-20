@@ -1,90 +1,226 @@
 {
+  "itemGroup.stumped.stumped_items": "Stumped Items",
+
+
+  "_Boats": "Boats",
+  "item.stumped.araucaria.araucaria_boat": "Araucaria Boat",
+
+  "_ChestBoats": "Chest Boats",
+  "item.stumped.araucaria.araucaria_chest_boat": "Araucaria Boat with Chest",
+
+
+
+  "itemGroup.stumped.stumped_blocks": "Stumped Blocks",
+
+
+  "_Planks": "Planks",
+  "block.stumped.araucaria.araucaria_planks": "Araucaria Planks",
+
+  "_Doors": "Doors",
+  "block.stumped.araucaria.araucaria_door": "Araucaria Door",
+
+  "_Logs": "Logs",
+  "block.stumped.araucaria.araucaria_log": "Araucaria Log",
+
+  "_Woods": "Woods",
+  "block.stumped.araucaria.araucaria_wood": "Araucaria Wood",
+
+  "_StrippedLogs": "Stripped Logs",
+  "block.stumped.araucaria.stripped_araucaria_log": "Stripped Araucaria Log",
+
+  "_StrippedWoods": "Stripped Woods",
+  "block.stumped.araucaria.stripped_araucaria_wood": "Stripped Araucaria Wood",
+
+  "_Leaves": "Leaves",
+  "block.stumped.araucaria.araucaria_leaves": "Araucaria Leaves",
+
+  "_Slabs": "Slabs",
+  "block.stumped.araucaria.araucaria_slab": "Araucaria Slab",
+
+  "_Stairs": "Stairs",
+  "block.stumped.araucaria.araucaria_stairs": "Araucaria Stairs",
+
+  "_Signs": "Signs",
+  "block.stumped.araucaria.araucaria_sign": "Araucaria Sign",
+
+  "_HangingSigns": "Hanging Signs",
+  "block.stumped.araucaria.araucaria_hanging_sign": "Araucaria Hanging Sign",
+
+  "_PressurePlates": "Pressure Plates",
+  "block.stumped.araucaria.araucaria_pressure_plate": "Araucaria Pressure Plate",
+
+  "_Buttons": "Buttons",
+  "block.stumped.araucaria.araucaria_button": "Araucaria Button",
+
+  "_Fences": "Fences",
+  "block.stumped.araucaria.araucaria_fence": "Araucaria Fence",
+
+  "_FenceGates": "Fence Gates",
+  "block.stumped.araucaria.araucaria_fence_gate": "Araucaria Fence Gate",
+
+  "_Trapdoors": "Trapdoors",
+  "block.stumped.araucaria.araucaria_trapdoor": "Araucaria Trapdoor",
+
+  "_Saplings": "Saplings",
+  "block.stumped.araucaria.araucaria_sapling": "Araucaria Sapling",
+
+  "_PottedSaplings": "Potted Saplings",
+  "block.stumped.araucaria.potted_araucaria_sapling": "Potted Araucaria Sapling",
+
+  "_Ladders": "Ladders",
+  "block.stumped.oak.oak_ladder": "Oak Ladder",
+  "block.stumped.spruce.spruce_ladder": "Spruce Ladder",
+  "block.stumped.birch.birch_ladder": "Birch Ladder",
+  "block.stumped.jungle.jungle_ladder": "Jungle Ladder",
+  "block.stumped.acacia.acacia_ladder": "Acacia Ladder",
+  "block.stumped.dark_oak.dark_oak_ladder": "Dark Oak Ladder",
+  "block.stumped.crimson.crimson_ladder": "Crimson Ladder",
+  "block.stumped.warped.warped_ladder": "Warped Ladder",
+  "block.stumped.mangrove.mangrove_ladder": "Mangrove Ladder",
+
+  "block.stumped.araucaria.araucaria_ladder": "Araucaria Ladder",
+  
+  "_Torches": "Torches",
+  "block.stumped.oak.oak_torch": "Oak Torch",
+  "block.stumped.spruce.spruce_torch": "Spruce Torch",
+  "block.stumped.birch.birch_torch": "Birch Torch",
+  "block.stumped.jungle.jungle_torch": "Jungle Torch",
+  "block.stumped.acacia.acacia_torch": "Acacia Torch",
+  "block.stumped.dark_oak.dark_oak_torch": "Dark Oak Torch",
+  "block.stumped.crimson.crimson_torch": "Crimson Torch",
+  "block.stumped.warped.warped_torch": "Warped Torch",
+  "block.stumped.mangrove.mangrove_torch": "Mangrove Torch",
+
+  "block.stumped.araucaria.araucaria_torch": "Araucaria Torch",
+
+  "_SoulTorches": "Soul Torches",
+  "block.stumped.oak.oak_soul_torch": "Oak Soul Torch",
+  "block.stumped.spruce.spruce_soul_torch": "Spruce Soul Torch",
+  "block.stumped.birch.birch_soul_torch": "Birch Soul Torch",
+  "block.stumped.jungle.jungle_soul_torch": "Jungle Soul Torch",
+  "block.stumped.acacia.acacia_soul_torch": "Acacia Soul Torch",
+  "block.stumped.dark_oak.dark_oak_soul_torch": "Dark Oak Soul Torch",
+  "block.stumped.crimson.crimson_soul_torch": "Crimson Soul Torch",
+  "block.stumped.warped.warped_soul_torch": "Warped Soul Torch",
+  "block.stumped.mangrove.mangrove_soul_torch": "Mangrove Soul Torch",
+
+  "block.stumped.araucaria.araucaria_soul_torch": "Araucaria Soul Torch",
+
+  "_RedstoneTorches": "Redstone Torches",
+  "block.stumped.oak.oak_redstone_torch": "Oak Redstone Torch",
+  "block.stumped.spruce.spruce_redstone_torch": "Spruce Redstone Torch",
+  "block.stumped.birch.birch_redstone_torch": "Birch Redstone Torch",
+  "block.stumped.jungle.jungle_redstone_torch": "Jungle Redstone Torch",
+  "block.stumped.acacia.acacia_redstone_torch": "Acacia Redstone Torch",
+  "block.stumped.dark_oak.dark_oak_redstone_torch": "Dark Oak Redstone Torch",
+  "block.stumped.crimson.crimson_redstone_torch": "Crimson Redstone Torch",
+  "block.stumped.warped.warped_redstone_torch": "Warped Redstone Torch",
+  "block.stumped.mangrove.mangrove_redstone_torch": "Mangrove Redstone Torch",
+
+  "block.stumped.araucaria.araucaria_redstone_torch": "Araucaria Redstone Torch",
+
+  
+  
   "itemGroup.stumped.stumped_tools": "Stumped Tools",
+  
+  
+  "_Pickaxes": "Pickaxes",
+  "item.stumped.oak.oak_pickaxe": "Oak Pickaxe",
+  "item.stumped.spruce.spruce_pickaxe": "Spruce Pickaxe",
+  "item.stumped.birch.birch_pickaxe": "Birch Pickaxe",
+  "item.stumped.jungle.jungle_pickaxe": "Jungle Pickaxe",
+  "item.stumped.acacia.acacia_pickaxe": "Acacia Pickaxe",
+  "item.stumped.dark_oak.dark_oak_pickaxe": "Dark Oak Pickaxe",
+  "item.stumped.crimson.crimson_pickaxe": "Crimson Pickaxe",
+  "item.stumped.warped.warped_pickaxe": "Warped Pickaxe",
+  "item.stumped.mangrove.mangrove_pickaxe": "Mangrove Pickaxe",
+
+  "item.stumped.araucaria.araucaria_pickaxe": "Araucaria Pickaxe",
+  
+  "_Axes": "Axes",
+  "item.stumped.oak.oak_axe": "Oak Axe",
+  "item.stumped.spruce.spruce_axe": "Spruce Axe",
+  "item.stumped.birch.birch_axe": "Birch Axe",
+  "item.stumped.jungle.jungle_axe": "Jungle Axe",
+  "item.stumped.acacia.acacia_axe": "Acacia Axe",
+  "item.stumped.dark_oak.dark_oak_axe": "Dark Oak Axe",
+  "item.stumped.crimson.crimson_axe": "Crimson Axe",
+  "item.stumped.warped.warped_axe": "Warped Axe",
+  "item.stumped.mangrove.mangrove_axe": "Mangrove Axe",
 
   "item.stumped.araucaria.araucaria_axe": "Araucaria Axe",
-  "item.stumped.araucaria.araucaria_pickaxe": "Araucaria Pickaxe",
-  "item.stumped.araucaria.araucaria_shovel": "Araucaria Shovel",
-  "item.stumped.araucaria.araucaria_hoe": "Araucaria Hoe",
   
-  "item.stumped.oak.oak_axe": "Oak Axe",
-  "item.stumped.oak.oak_pickaxe": "Oak Pickaxe",
+  "_Shovels": "Shovels",
   "item.stumped.oak.oak_shovel": "Oak Shovel",
-  "item.stumped.oak.oak_hoe": "Oak Hoe",
-
-  "item.stumped.spruce.spruce_axe": "Spruce Axe",
-  "item.stumped.spruce.spruce_pickaxe": "Spruce Pickaxe",
   "item.stumped.spruce.spruce_shovel": "Spruce Shovel",
-  "item.stumped.spruce.spruce_hoe": "Spruce Hoe",
-
-  "item.stumped.birch.birch_axe": "Birch Axe",
-  "item.stumped.birch.birch_pickaxe": "Birch Pickaxe",
   "item.stumped.birch.birch_shovel": "Birch Shovel",
-  "item.stumped.birch.birch_hoe": "Birch Hoe",
-
-  "item.stumped.jungle.jungle_axe": "Jungle Axe",
-  "item.stumped.jungle.jungle_pickaxe": "Jungle Pickaxe",
   "item.stumped.jungle.jungle_shovel": "Jungle Shovel",
-  "item.stumped.jungle.jungle_hoe": "Jungle Hoe",
-
-  "item.stumped.acacia.acacia_axe": "Acacia Axe",
-  "item.stumped.acacia.acacia_pickaxe": "Acacia Pickaxe",
   "item.stumped.acacia.acacia_shovel": "Acacia Shovel",
-  "item.stumped.acacia.acacia_hoe": "Acacia Hoe",
-
-  "item.stumped.dark_oak.dark_oak_axe": "Dark Oak Axe",
-  "item.stumped.dark_oak.dark_oak_pickaxe": "Dark Oak Pickaxe",
   "item.stumped.dark_oak.dark_oak_shovel": "Dark Oak Shovel",
-  "item.stumped.dark_oak.dark_oak_hoe": "Dark Oak Hoe",
-
-  "item.stumped.crimson.crimson_axe": "Crimson Axe",
-  "item.stumped.crimson.crimson_pickaxe": "Crimson Pickaxe",
   "item.stumped.crimson.crimson_shovel": "Crimson Shovel",
-  "item.stumped.crimson.crimson_hoe": "Crimson Hoe",
-
-  "item.stumped.warped.warped_axe": "Warped Axe",
-  "item.stumped.warped.warped_pickaxe": "Warped Pickaxe",
   "item.stumped.warped.warped_shovel": "Warped Shovel",
-  "item.stumped.warped.warped_hoe": "Warped Hoe",
-
-  "item.stumped.mangrove.mangrove_axe": "Mangrove Axe",
-  "item.stumped.mangrove.mangrove_pickaxe": "Mangrove Pickaxe",
   "item.stumped.mangrove.mangrove_shovel": "Mangrove Shovel",
+
+  "item.stumped.araucaria.araucaria_shovel": "Araucaria Shovel",
+  
+  "_Hoes": "Hoes",
+  "item.stumped.oak.oak_hoe": "Oak Hoe",
+  "item.stumped.spruce.spruce_hoe": "Spruce Hoe",
+  "item.stumped.birch.birch_hoe": "Birch Hoe",
+  "item.stumped.jungle.jungle_hoe": "Jungle Hoe",
+  "item.stumped.acacia.acacia_hoe": "Acacia Hoe",
+  "item.stumped.dark_oak.dark_oak_hoe": "Dark Oak Hoe",
+  "item.stumped.crimson.crimson_hoe": "Crimson Hoe",
+  "item.stumped.warped.warped_hoe": "Warped Hoe",
   "item.stumped.mangrove.mangrove_hoe": "Mangrove Hoe",
 
-  "item.stumped.cherry.cherry_axe": "Cherry Axe",
-  "item.stumped.cherry.cherry_pickaxe": "Cherry Pickaxe",
-  "item.stumped.cherry.cherry_shovel": "Cherry Shovel",
-  "item.stumped.cherry.cherry_hoe": "Cherry Hoe",
-
-
-
+  "item.stumped.araucaria.araucaria_hoe": "Araucaria Hoe",
+  
+  
+  
   "itemGroup.stumped.stumped_weapons": "Stumped Weapons",
+  
+  
+  "_Swords": "Swords",
+  "item.stumped.oak.oak_sword": "Oak Sword",
+  "item.stumped.spruce.spruce_sword": "Spruce Sword",
+  "item.stumped.birch.birch_sword": "Birch Sword",
+  "item.stumped.jungle.jungle_sword": "Jungle Sword",
+  "item.stumped.acacia.acacia_sword": "Acacia Sword",
+  "item.stumped.dark_oak.dark_oak_sword": "Dark Oak Sword",
+  "item.stumped.crimson.crimson_sword": "Crimson Sword",
+  "item.stumped.warped.warped_sword": "Warped Sword",
+  "item.stumped.mangrove.mangrove_sword": "Mangrove Sword",
 
   "item.stumped.araucaria.araucaria_sword": "Araucaria Sword",
-  "item.stumped.araucaria.araucaria_bow": "Araucaria Bow",
-  "item.stumped.araucaria.araucaria_crossbow": "Araucaria Crossbow",
-  "item.stumped.araucaria.araucaria_shield": "Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.red": "Red Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.orange": "Orange Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.yellow": "Yellow Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.lime": "Lime Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.green": "Green Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.light_blue": "Light Blue Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.cyan": "Cyan Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.blue": "Blue Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.purple": "Purple Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.magenta": "Magenta Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.pink": "Pink Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.brown": "Brown Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.white": "White Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.light_gray": "Light Gray Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.gray": "Gray Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.dark_gray": "Dark Gray Araucaria Shield",
-  "item.stumped.araucaria.araucaria_shield.black": "Black Araucaria Shield",
-
-  "item.stumped.oak.oak_sword": "Oak Sword",
+  
+  "_Bows": "Bows",
   "item.stumped.oak.oak_bow": "Oak Bow",
+  "item.stumped.spruce.spruce_bow": "Spruce Bow",
+  "item.stumped.birch.birch_bow": "Birch Bow",
+  "item.stumped.jungle.jungle_bow": "Jungle Bow",
+  "item.stumped.acacia.acacia_bow": "Acacia Bow",
+  "item.stumped.dark_oak.dark_oak_bow": "Dark Oak Bow",
+  "item.stumped.crimson.crimson_bow": "Crimson Bow",
+  "item.stumped.warped.warped_bow": "Warped Bow",
+  "item.stumped.mangrove.mangrove_bow": "Mangrove Bow",
+
+  "item.stumped.araucaria.araucaria_bow": "Araucaria Bow",
+
+  "_Crossbows": "Crossbows",
   "item.stumped.oak.oak_crossbow": "Oak Crossbow",
+  "item.stumped.spruce.spruce_crossbow": "Spruce Crossbow",
+  "item.stumped.birch.birch_crossbow": "Birch Crossbow",
+  "item.stumped.jungle.jungle_crossbow": "Jungle Crossbow",
+  "item.stumped.acacia.acacia_crossbow": "Acacia Crossbow",
+  "item.stumped.dark_oak.dark_oak_crossbow": "Dark Oak Crossbow",
+  "item.stumped.crimson.crimson_crossbow": "Crimson Crossbow",
+  "item.stumped.warped.warped_crossbow": "Warped Crossbow",
+  "item.stumped.mangrove.mangrove_crossbow": "Mangrove Crossbow",
+
+  "item.stumped.araucaria.araucaria_crossbow": "Araucaria Crossbow",
+
+  "_Shields": "Shields",
   "item.stumped.oak.oak_shield": "Oak Shield",
   "item.stumped.oak.oak_shield.red": "Red Oak Shield",
   "item.stumped.oak.oak_shield.orange": "Orange Oak Shield",
@@ -103,10 +239,6 @@
   "item.stumped.oak.oak_shield.gray": "Gray Oak Shield",
   "item.stumped.oak.oak_shield.dark_gray": "Dark Gray Oak Shield",
   "item.stumped.oak.oak_shield.black": "Black Oak Shield",
-
-  "item.stumped.spruce.spruce_sword": "Spruce Sword",
-  "item.stumped.spruce.spruce_bow": "Spruce Bow",
-  "item.stumped.spruce.spruce_crossbow": "Spruce Crossbow",
   "item.stumped.spruce.spruce_shield": "Spruce Shield",
   "item.stumped.spruce.spruce_shield.red": "Red Spruce Shield",
   "item.stumped.spruce.spruce_shield.orange": "Orange Spruce Shield",
@@ -125,10 +257,6 @@
   "item.stumped.spruce.spruce_shield.gray": "Gray Spruce Shield",
   "item.stumped.spruce.spruce_shield.dark_gray": "Dark Gray Spruce Shield",
   "item.stumped.spruce.spruce_shield.black": "Black Spruce Shield",
-
-  "item.stumped.birch.birch_sword": "Birch Sword",
-  "item.stumped.birch.birch_bow": "Birch Bow",
-  "item.stumped.birch.birch_crossbow": "Birch Crossbow",
   "item.stumped.birch.birch_shield": "Birch Shield",
   "item.stumped.birch.birch_shield.red": "Red Birch Shield",
   "item.stumped.birch.birch_shield.orange": "Orange Birch Shield",
@@ -147,10 +275,6 @@
   "item.stumped.birch.birch_shield.gray": "Gray Birch Shield",
   "item.stumped.birch.birch_shield.dark_gray": "Dark Gray Birch Shield",
   "item.stumped.birch.birch_shield.black": "Black Birch Shield",
-
-  "item.stumped.jungle.jungle_sword": "Jungle Sword",
-  "item.stumped.jungle.jungle_bow": "Jungle Bow",
-  "item.stumped.jungle.jungle_crossbow": "Jungle Crossbow",
   "item.stumped.jungle.jungle_shield": "Jungle Shield",
   "item.stumped.jungle.jungle_shield.red": "Red Jungle Shield",
   "item.stumped.jungle.jungle_shield.orange": "Orange Jungle Shield",
@@ -169,10 +293,6 @@
   "item.stumped.jungle.jungle_shield.gray": "Gray Jungle Shield",
   "item.stumped.jungle.jungle_shield.dark_gray": "Dark Gray Jungle Shield",
   "item.stumped.jungle.jungle_shield.black": "Black Jungle Shield",
-
-  "item.stumped.acacia.acacia_sword": "Acacia Sword",
-  "item.stumped.acacia.acacia_bow": "Acacia Bow",
-  "item.stumped.acacia.acacia_crossbow": "Acacia Crossbow",
   "item.stumped.acacia.acacia_shield": "Acacia Shield",
   "item.stumped.acacia.acacia_shield.red": "Red Acacia Shield",
   "item.stumped.acacia.acacia_shield.orange": "Orange Acacia Shield",
@@ -191,10 +311,6 @@
   "item.stumped.acacia.acacia_shield.gray": "Gray Acacia Shield",
   "item.stumped.acacia.acacia_shield.dark_gray": "Dark Gray Acacia Shield",
   "item.stumped.acacia.acacia_shield.black": "Black Acacia Shield",
-
-  "item.stumped.dark_oak.dark_oak_sword": "Dark Oak Sword",
-  "item.stumped.dark_oak.dark_oak_bow": "Dark Oak Bow",
-  "item.stumped.dark_oak.dark_oak_crossbow": "Dark Oak Crossbow",
   "item.stumped.dark_oak.dark_oak_shield": "Dark Oak Shield",
   "item.stumped.dark_oak.dark_oak_shield.red": "Red Dark Oak Shield",
   "item.stumped.dark_oak.dark_oak_shield.orange": "Orange Dark Oak Shield",
@@ -213,10 +329,6 @@
   "item.stumped.dark_oak.dark_oak_shield.gray": "Gray Dark Oak Shield",
   "item.stumped.dark_oak.dark_oak_shield.dark_gray": "Dark Gray Dark Oak Shield",
   "item.stumped.dark_oak.dark_oak_shield.black": "Black Dark Oak Shield",
-
-  "item.stumped.crimson.crimson_sword": "Crimson Sword",
-  "item.stumped.crimson.crimson_bow": "Crimson Bow",
-  "item.stumped.crimson.crimson_crossbow": "Crimson Crossbow",
   "item.stumped.crimson.crimson_shield": "Crimson Shield",
   "item.stumped.crimson.crimson_shield.red": "Red Crimson Shield",
   "item.stumped.crimson.crimson_shield.orange": "Orange Crimson Shield",
@@ -235,10 +347,6 @@
   "item.stumped.crimson.crimson_shield.gray": "Gray Crimson Shield",
   "item.stumped.crimson.crimson_shield.dark_gray": "Dark Gray Crimson Shield",
   "item.stumped.crimson.crimson_shield.black": "Black Crimson Shield",
-
-  "item.stumped.warped.warped_sword": "Warped Sword",
-  "item.stumped.warped.warped_bow": "Warped Bow",
-  "item.stumped.warped.warped_crossbow": "Warped Crossbow",
   "item.stumped.warped.warped_shield": "Warped Shield",
   "item.stumped.warped.warped_shield.red": "Red Warped Shield",
   "item.stumped.warped.warped_shield.orange": "Orange Warped Shield",
@@ -257,10 +365,6 @@
   "item.stumped.warped.warped_shield.gray": "Gray Warped Shield",
   "item.stumped.warped.warped_shield.dark_gray": "Dark Gray Warped Shield",
   "item.stumped.warped.warped_shield.black": "Black Warped Shield",
-
-  "item.stumped.mangrove.mangrove_sword": "Mangrove Sword",
-  "item.stumped.mangrove.mangrove_bow": "Mangrove Bow",
-  "item.stumped.mangrove.mangrove_crossbow": "Mangrove Crossbow",
   "item.stumped.mangrove.mangrove_shield": "Mangrove Shield",
   "item.stumped.mangrove.mangrove_shield.red": "Red Mangrove Shield",
   "item.stumped.mangrove.mangrove_shield.orange": "Orange Mangrove Shield",
@@ -280,55 +384,22 @@
   "item.stumped.mangrove.mangrove_shield.dark_gray": "Dark Gray Mangrove Shield",
   "item.stumped.mangrove.mangrove_shield.black": "Black Mangrove Shield",
 
-  "item.stumped.cherry.cherry_sword": "Cherry Sword",
-  "item.stumped.cherry.cherry_bow": "Cherry Bow",
-  "item.stumped.cherry.cherry_crossbow": "Cherry Crossbow",
-  "item.stumped.cherry.cherry_shield": "Cherry Shield",
-  "item.stumped.cherry.cherry_shield.red": "Red Cherry Shield",
-  "item.stumped.cherry.cherry_shield.orange": "Orange Cherry Shield",
-  "item.stumped.cherry.cherry_shield.yellow": "Yellow Cherry Shield",
-  "item.stumped.cherry.cherry_shield.lime": "Lime Cherry Shield",
-  "item.stumped.cherry.cherry_shield.green": "Green Cherry Shield",
-  "item.stumped.cherry.cherry_shield.light_blue": "Light Blue Cherry Shield",
-  "item.stumped.cherry.cherry_shield.cyan": "Cyan Cherry Shield",
-  "item.stumped.cherry.cherry_shield.blue": "Blue Cherry Shield",
-  "item.stumped.cherry.cherry_shield.purple": "Purple Cherry Shield",
-  "item.stumped.cherry.cherry_shield.magenta": "Magenta Cherry Shield",
-  "item.stumped.cherry.cherry_shield.pink": "Pink Cherry Shield",
-  "item.stumped.cherry.cherry_shield.brown": "Brown Cherry Shield",
-  "item.stumped.cherry.cherry_shield.white": "White Cherry Shield",
-  "item.stumped.cherry.cherry_shield.light_gray": "Light Gray Cherry Shield",
-  "item.stumped.cherry.cherry_shield.gray": "Gray Cherry Shield",
-  "item.stumped.cherry.cherry_shield.dark_gray": "Dark Gray Cherry Shield",
-  "item.stumped.cherry.cherry_shield.black": "Black Cherry Shield",
-
-
-  "itemGroup.stumped.stumped_blocks": "Stumped Blocks",
-
-  "block.stumped.araucaria.araucaria_planks": "Araucaria Planks",
-  "block.stumped.araucaria.araucaria_door": "Araucaria Door",
-  "block.stumped.araucaria.araucaria_wood": "Araucaria Wood",
-  "block.stumped.araucaria.araucaria_log": "Araucaria Log",
-  "block.stumped.araucaria.stripped_araucaria_log": "Stripped Araucaria Log",
-  "block.stumped.araucaria.stripped_araucaria_wood": "Stripped Araucaria Wood",
-  "block.stumped.araucaria.araucaria_leaves": "Araucaria Leaves",
-  "block.stumped.araucaria.araucaria_slab": "Araucaria Slab",
-  "block.stumped.araucaria.araucaria_stairs": "Araucaria Stairs",
-  "block.stumped.araucaria.araucaria_wall_sign": "Araucaria Wall Sign",
-  "block.stumped.araucaria.araucaria_hanging_sign": "Araucaria Hanging Sign",
-  "block.stumped.araucaria.araucaria_wall_hanging_sign": "Araucaria Wall Hanging Sign",
-  "block.stumped.araucaria.araucaria_pressure_plate": "Araucaria Pressure Plate",
-  "block.stumped.araucaria.araucaria_button": "Araucaria Button",
-  "block.stumped.araucaria.araucaria_fence": "Araucaria Fence",
-  "block.stumped.araucaria.araucaria_fence_gate": "Araucaria Fence Gate",
-  "block.stumped.araucaria.araucaria_trapdoor": "Araucaria Trapdoor",
-  "block.stumped.araucaria.potted_araucaria_sapling": "Potted Araucaria Sapling",
-
-
-  "itemGroup.stumped.stumped_items": "Stumped Items",
-
-  "block.stumped.araucaria.araucaria_sapling": "Araucaria Sapling",
-  "block.stumped.araucaria.araucaria_sign": "Araucaria Sign",
-  "item.stumped.araucaria.araucaria_boat": "Araucaria Boat",
-  "item.stumped.araucaria.araucaria_chest_boat": "Araucaria Boat with Chest"
+  "item.stumped.araucaria.araucaria_shield": "Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.red": "Red Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.orange": "Orange Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.yellow": "Yellow Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.lime": "Lime Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.green": "Green Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.light_blue": "Light Blue Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.cyan": "Cyan Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.blue": "Blue Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.purple": "Purple Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.magenta": "Magenta Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.pink": "Pink Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.brown": "Brown Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.white": "White Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.light_gray": "Light Gray Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.gray": "Gray Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.dark_gray": "Dark Gray Araucaria Shield",
+  "item.stumped.araucaria.araucaria_shield.black": "Black Araucaria Shield"
 }

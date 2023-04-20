@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "stumped:block/spruce/spruce_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "stumped:block/spruce/spruce_redstone_torch"
+    }
+  }
+}

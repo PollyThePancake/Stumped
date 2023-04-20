@@ -1,8 +1,8 @@
 package io.github.pollythepancake.stumped.util;
 
+import io.github.pollythepancake.stumped.ModInit;
 import io.github.pollythepancake.stumped.blocks.AraucariaBlocks;
 import io.github.pollythepancake.stumped.items.AraucariaItems;
-import io.github.pollythepancake.stumped.ModInit;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

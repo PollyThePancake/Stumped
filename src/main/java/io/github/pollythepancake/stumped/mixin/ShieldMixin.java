@@ -1,8 +1,6 @@
 package io.github.pollythepancake.stumped.mixin;
 
-import io.github.pollythepancake.stumped.items.custom.weapons.CustomShield;
-import net.fabricmc.api.EnvType;
-import net.fabricmc.api.Environment;
+import io.github.pollythepancake.stumped.items.custom.weapons.CustomShieldItem;
 import net.minecraft.client.render.VertexConsumerProvider;
 import net.minecraft.client.render.entity.model.EntityModelLoader;
 import net.minecraft.client.render.item.BuiltinModelItemRenderer;
@@ -26,7 +24,7 @@ public class ShieldMixin {
     @Inject(method = "reload", at = @At("HEAD"))
     private void Stumped$setModels(CallbackInfo ci) {
 
-        for (CustomShield shield : CustomShield.items) {
+        for (CustomShieldItem shield : CustomShieldItem.items) {
 
             shield.setShieldEntityModel(entityModelLoader);
         }
@@ -35,7 +33,7 @@ public class ShieldMixin {
     @Inject(method = "render", at = @At("HEAD"))
     private void Stumped$mainRender(ItemStack stack, ModelTransformation.Mode mode, MatrixStack matrices, VertexConsumerProvider vertexConsumers, int light, int overlay, CallbackInfo ci) {
 
-        for (CustomShield shield : CustomShield.items) {
+        for (CustomShieldItem shield : CustomShieldItem.items) {
 
             shield.renderBanner(stack, matrices, vertexConsumers, light, overlay);
         }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "stumped:block/crimson/crimson_redstone_torch_off"
+  }
+}

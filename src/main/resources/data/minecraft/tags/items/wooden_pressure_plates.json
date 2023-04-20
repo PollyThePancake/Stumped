@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "stumped:araucaria/araucaria_pressure_plate",
+      "required": false
+    }
+  ]
+}

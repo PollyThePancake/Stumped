@@ -12,49 +12,47 @@ Stumped is a mod that adds more types of trees to Minecraft, each with their own
 
 #### All wood types that Stumped adds will contain their own variants of:
 
-- Saplings
-- Leaves
+- Planks
 - Logs
 - Stripped Logs
-- Wood (All Sided Log)
+- Wood
 - Stripped Wood
-- Planks
+- Leaves
 - Slabs
 - Stairs
+- Signs
 - Doors
 - Trapdoors
 - Fences
 - Fence Gates
-- Signs
-- Buttons
 - Pressure Plates
-- Boats
-
-
-#### Stumped also adds unique variants of:
-
-- Chests
-- Trapped Chests
+- Buttons
+- Saplings
+- Potted Saplings
 - Ladders
-- Item Frame
-- Biomes
-
-#### Some wood types even contain unique fruits and drops
+- Torches
+- Soul Torches
+- Redstone Torches
+- Boats
 
 ## What do I intend to add to Stumped?
 
 #### I plan on adding:
 
-- Pear Trees
-- Orange Trees
-- Fir Tree
-- Sycamore Trees
-- Palm Trees
-- Icecream Flavours
-- Cheesecake Flavours
-- Fruit Salads
+- Chests
+- Trapped Chests
+- New wood types
+- Biomes for the new trees
+- Biomes
+- Fruit drops or unique drops from certain trees
+- Ice cream, cheesecakes and fruit salads from those new fruits
 - A leaf for every type of tree that can be kept to index them all
 - When 1.20 comes out, more variants of the cherry blossom trees
+
+## Dependencies
+
+- [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.19.2)
+- [Terrablender](https://modrinth.com/mod/terrablender/versions?l=fabric&g=1.19.2)
 
 ## Links:
 

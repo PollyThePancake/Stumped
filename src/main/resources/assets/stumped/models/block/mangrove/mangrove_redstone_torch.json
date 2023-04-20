@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "stumped:block/mangrove/mangrove_redstone_torch"
+  }
+}

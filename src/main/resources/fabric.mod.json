@@ -10,7 +10,9 @@
   "contact": {
     "homepage": "https://modrinth.com/mod/stumped",
     "sources": "https://github.com/PollyThePancake/Stumped",
-    "issues": "https://github.com/PollyThePancake/Stumped/issues"
+    "issues": "https://github.com/PollyThePancake/Stumped/issues",
+    "modrinth": "https://modrinth.com/mod/stumped",
+    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/stumped"
   },
   "license": "GLWTPL",
   "icon": "assets/stumped/icon.png",
@@ -32,12 +34,15 @@
   "mixins": [
     "stumped.mixins.json"
   ],
-  "accessWidener" : "stumped.accesswidener",
+  "accessWidener": "stumped.accesswidener",
   "depends": {
-    "fabricloader": ">=0.14.14",
+    "fabricloader": ">=0.14.0",
     "fabric": "*",
     "minecraft": "1.19.2",
-    "java": ">=17"
+    "java": "=17",
+    "terrablender": "2.0.1.136"
+  },
+  "breaks": {
   },
   "suggests": {
     "another-mod": "*"

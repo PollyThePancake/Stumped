@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "stumped:block/birch/birch_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "stumped:block/birch/birch_ladder"
+    },
+    "facing=south": {
+      "model": "stumped:block/birch/birch_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stumped:block/birch/birch_ladder",
+      "y": 270
+    }
+  }
+}

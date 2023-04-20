@@ -17,8 +17,7 @@ public class CustomSignBlock extends CustomBlock {
 
     public CustomSignBlock(String id, SignType signType) {
         super(id, new SignBlock(FabricBlockSettings.copyOf(Blocks.OAK_SIGN), signType));
-        Item item = this.getItem();
-        items.add(item);
+        items.add(this.getItem());
         blocks.add(this.getBlock());
     }
 }

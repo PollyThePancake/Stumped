@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "stumped:block/mangrove/mangrove_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "stumped:block/mangrove/mangrove_ladder"
+    },
+    "facing=south": {
+      "model": "stumped:block/mangrove/mangrove_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stumped:block/mangrove/mangrove_ladder",
+      "y": 270
+    }
+  }
+}

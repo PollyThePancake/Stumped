@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "stumped:block/jungle/jungle_redstone_torch"
+  }
+}

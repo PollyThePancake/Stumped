@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "stumped:acacia/acacia_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:birch/birch_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:crimson/crimson_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:dark_oak/dark_oak_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:jungle/jungle_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:oak/oak_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:mangrove/mangrove_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:spruce/spruce_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:warped/warped_ladder",
+      "required": false
+    },
+    {
+      "id": "stumped:araucaria/araucaria_ladder",
+      "required": false
+    }
+  ]
+}

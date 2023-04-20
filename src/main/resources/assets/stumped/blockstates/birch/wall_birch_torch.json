@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "stumped:block/birch/wall_birch_torch"
+    },
+    "facing=north": {
+      "model": "stumped:block/birch/wall_birch_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "stumped:block/birch/wall_birch_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "stumped:block/birch/wall_birch_torch",
+      "y": 180
+    }
+  }
+}

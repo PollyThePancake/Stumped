@@ -1,0 +1,20 @@
+// 1.19.2	2023-04-26T01:16:52.217351	Tags for minecraft:item
+e3f61434da27be1bc0bd8b3d5e6975d06f51881e data\minecraft\tags\items\non_flammable_wood.json
+5d24edb88355496e6e7440240e29c21b0a02f636 data\minecraft\tags\items\leaves.json
+fe8ad2a4dede0e2d43f541dce2feb728b885103e data\stumped\tags\items\redstone_torches.json
+04459f8ced29a1965a36c69299b8d594eebd7ac7 data\minecraft\tags\items\planks.json
+1bf4a8f8fc51671b983acb01e927db803da70c07 data\stumped\tags\items\torches.json
+90e59b1d463de6516343ac4fc42e264aadcc502d data\minecraft\tags\items\wooden_trapdoors.json
+0e3eec3687b331a63b3377743ebd591c0dcd36c2 data\minecraft\tags\items\overworld_natural_logs.json
+0fee631bdb59edbee81ff497ac33109c12649776 data\minecraft\tags\items\wooden_doors.json
+7c990686b33fc959764c6a7a9c84182de855209b data\minecraft\tags\items\wooden_slabs.json
+6fb6e8d0aa60f0505ee54998d13d04053c556426 data\minecraft\tags\items\logs_that_burn.json
+0b8e8d17dd8473b236b5538f46640ff916b5ca00 data\stumped\tags\items\soul_torches.json
+5349b563dde2953d60cc7dfbd5abd5e3654f3e5f data\minecraft\tags\items\wooden_pressure_plates.json
+ac674954222bcbfcc6dfdf894ba5f282ac8be437 data\stumped\tags\items\ladders.json
+56639bb534811946f6aa3555f9c13fc02f80a93d data\minecraft\tags\items\piglin_repellents.json
+169dfdde85036418df09a611df5ddacd563b5315 data\minecraft\tags\items\wooden_stairs.json
+79d39c81f272f8bc0830d5703ee20adc99942f2e data\stumped\tags\items\araucaria_logs.json
+445858410a1a92bccd6151c5f6ccc756a0509947 data\minecraft\tags\items\wooden_fences.json
+5331fb686826a2cd107177d6377b01cd09dc8bc5 data\minecraft\tags\items\saplings.json
+d4bca53055cc7b8b240b632131bb907faf3f9d02 data\minecraft\tags\items\wooden_buttons.json

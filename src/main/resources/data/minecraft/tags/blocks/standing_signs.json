@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "stumped:araucaria/araucaria_sign",
-      "required": false
-    }
-  ]
-}

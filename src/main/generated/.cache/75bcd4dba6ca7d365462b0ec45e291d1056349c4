@@ -1,0 +1,27 @@
+// 1.19.2	2023-04-26T01:16:52.2183525	Tags for minecraft:block
+169dfdde85036418df09a611df5ddacd563b5315 data\minecraft\tags\blocks\wooden_stairs.json
+04459f8ced29a1965a36c69299b8d594eebd7ac7 data\minecraft\tags\blocks\planks.json
+79d39c81f272f8bc0830d5703ee20adc99942f2e data\stumped\tags\blocks\araucaria_logs.json
+5349b563dde2953d60cc7dfbd5abd5e3654f3e5f data\minecraft\tags\blocks\wooden_pressure_plates.json
+eec4078e2defc5dc64a84d8a27c92ead773323b7 data\minecraft\tags\blocks\wall_post_override.json
+7f33e75cf2abb1b0b8befe053ee8fc9bacefb210 data\stumped\tags\blocks\wall_soul_torches.json
+7c990686b33fc959764c6a7a9c84182de855209b data\minecraft\tags\blocks\wooden_slabs.json
+817aadd2681e8f27a14353a850dcdc676531ad86 data\minecraft\tags\blocks\standing_signs.json
+69c9a7c2d2b02b6670825156778c196b9960579a data\minecraft\tags\blocks\fence_gates.json
+98671f91afb1c53b125a9b8da03fcedcdc8f3a25 data\minecraft\tags\blocks\flower_pots.json
+d4bca53055cc7b8b240b632131bb907faf3f9d02 data\minecraft\tags\blocks\wooden_buttons.json
+fb728c3ae02bd018f1aeb2f78d268746902bcf4e data\stumped\tags\blocks\redstone_torches.json
+595ce7c043861eec085a0a2fe053f7ee9b621fbc data\minecraft\tags\blocks\climbable.json
+e06076e3af53739ad964aecc6746583c12213c03 data\minecraft\tags\blocks\wall_signs.json
+6fb6e8d0aa60f0505ee54998d13d04053c556426 data\minecraft\tags\blocks\logs_that_burn.json
+e3f61434da27be1bc0bd8b3d5e6975d06f51881e data\minecraft\tags\blocks\non_flammable_wood.json
+0fee631bdb59edbee81ff497ac33109c12649776 data\minecraft\tags\blocks\wooden_doors.json
+5d24edb88355496e6e7440240e29c21b0a02f636 data\minecraft\tags\blocks\leaves.json
+90e59b1d463de6516343ac4fc42e264aadcc502d data\minecraft\tags\blocks\wooden_trapdoors.json
+445858410a1a92bccd6151c5f6ccc756a0509947 data\minecraft\tags\blocks\wooden_fences.json
+ac674954222bcbfcc6dfdf894ba5f282ac8be437 data\stumped\tags\blocks\ladders.json
+4919ab19b6062b581233a4f3f41cbcb8fcd8256a data\stumped\tags\blocks\soul_torches.json
+56639bb534811946f6aa3555f9c13fc02f80a93d data\minecraft\tags\blocks\piglin_repellents.json
+4d654ee7110f73654e91ecc67f325350a808233e data\stumped\tags\blocks\torches.json
+0e3eec3687b331a63b3377743ebd591c0dcd36c2 data\minecraft\tags\blocks\overworld_natural_logs.json
+5331fb686826a2cd107177d6377b01cd09dc8bc5 data\minecraft\tags\blocks\saplings.json

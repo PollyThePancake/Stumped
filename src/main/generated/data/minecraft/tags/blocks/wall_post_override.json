@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#stumped:torches",
+    "#stumped:soul_torches",
+    "#stumped:redstone_torches"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_torch",
+    "stumped:oak/oak_redstone_torch",
+    "stumped:spruce/spruce_redstone_torch",
+    "stumped:birch/birch_redstone_torch",
+    "stumped:jungle/jungle_redstone_torch",
+    "stumped:acacia/acacia_redstone_torch",
+    "stumped:dark_oak/dark_oak_redstone_torch",
+    "stumped:mangrove/mangrove_redstone_torch",
+    "stumped:crimson/crimson_redstone_torch",
+    "stumped:warped/warped_redstone_torch",
+    "stumped:araucaria/araucaria_redstone_torch"
+  ]
+}

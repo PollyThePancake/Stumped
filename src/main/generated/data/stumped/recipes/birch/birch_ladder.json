@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ladders",
+  "ingredients": [
+    {
+      "item": "minecraft:ladder"
+    },
+    {
+      "item": "minecraft:birch_planks"
+    }
+  ],
+  "result": {
+    "item": "stumped:birch/birch_ladder"
+  }
+}

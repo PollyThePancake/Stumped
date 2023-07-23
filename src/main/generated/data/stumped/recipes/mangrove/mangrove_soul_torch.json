@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "soul_torch",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_torch"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    }
+  ],
+  "result": {
+    "item": "stumped:mangrove/mangrove_soul_torch"
+  }
+}

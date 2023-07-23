@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "axe",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##",
+    "#I",
+    " I"
+  ],
+  "result": {
+    "item": "stumped:birch/birch_axe"
+  }
+}

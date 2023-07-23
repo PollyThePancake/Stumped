@@ -4,7 +4,7 @@ import com.github.crimsondawn45.fabricshieldlib.initializers.FabricShieldLibClie
 import com.github.crimsondawn45.fabricshieldlib.lib.object.FabricBannerShieldItem;
 import io.github.pollythepancake.stumped.ModInit;
 import io.github.pollythepancake.stumped.items.custom.CustomItem;
-import io.github.pollythepancake.stumped.util.ModGroups;
+import io.github.pollythepancake.stumped.util.StumpedGroups;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
@@ -37,7 +37,7 @@ public class CustomShieldItem extends CustomItem {
     private SpriteIdentifier shieldNoPatternSprite;
 
     public CustomShieldItem(String id) {
-        super(id, new FabricBannerShieldItem(new FabricItemSettings().group(ModGroups.STUMPED_WEAPONS).maxCount(1).maxDamage(336), 100, 9, ItemTags.PLANKS));
+        super(id, new FabricBannerShieldItem(new FabricItemSettings().group(StumpedGroups.STUMPED_WEAPONS).maxCount(1).maxDamage(336), 100, 9, ItemTags.PLANKS));
         this.shieldTexturePath = "entity/" + id + "_base";
         items.add(this);
     }

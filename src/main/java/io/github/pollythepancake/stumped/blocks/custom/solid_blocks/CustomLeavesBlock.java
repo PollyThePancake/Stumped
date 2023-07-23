@@ -1,7 +1,7 @@
 package io.github.pollythepancake.stumped.blocks.custom.solid_blocks;
 
 import io.github.pollythepancake.stumped.blocks.custom.CustomBlock;
-import io.github.pollythepancake.stumped.util.ModGroups;
+import io.github.pollythepancake.stumped.util.StumpedGroups;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -17,7 +17,7 @@ public class CustomLeavesBlock extends CustomBlock {
     public static ArrayList<Block> blocks = new ArrayList<>();
 
     public CustomLeavesBlock(String id) {
-        super(id, new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES)), new FabricItemSettings().group(ModGroups.STUMPED_BLOCKS));
+        super(id, new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES)), new FabricItemSettings().group(StumpedGroups.STUMPED_BLOCKS));
         items.add(this.getItem());
         blocks.add(this.getBlock());
     }

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_wall_torch",
+    "stumped:oak/wall_oak_soul_torch",
+    "stumped:spruce/wall_spruce_soul_torch",
+    "stumped:birch/wall_birch_soul_torch",
+    "stumped:jungle/wall_jungle_soul_torch",
+    "stumped:acacia/wall_acacia_soul_torch",
+    "stumped:dark_oak/wall_dark_oak_soul_torch",
+    "stumped:mangrove/wall_mangrove_soul_torch",
+    "stumped:crimson/wall_crimson_soul_torch",
+    "stumped:warped/wall_warped_soul_torch",
+    "stumped:araucaria/wall_araucaria_soul_torch"
+  ]
+}

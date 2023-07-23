@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "stumped:araucaria/araucaria_planks"
+    }
+  ],
+  "result": {
+    "item": "stumped:araucaria/araucaria_button"
+  }
+}

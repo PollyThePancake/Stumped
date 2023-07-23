@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ladder",
+    "stumped:oak/oak_ladder",
+    "stumped:spruce/spruce_ladder",
+    "stumped:birch/birch_ladder",
+    "stumped:jungle/jungle_ladder",
+    "stumped:acacia/acacia_ladder",
+    "stumped:dark_oak/dark_oak_ladder",
+    "stumped:mangrove/mangrove_ladder",
+    "stumped:crimson/crimson_ladder",
+    "stumped:warped/warped_ladder",
+    "stumped:araucaria/araucaria_ladder"
+  ]
+}

@@ -1,7 +1,7 @@
 package io.github.pollythepancake.stumped.blocks.custom.complex;
 
 import io.github.pollythepancake.stumped.blocks.custom.CustomBlock;
-import io.github.pollythepancake.stumped.util.ModGroups;
+import io.github.pollythepancake.stumped.util.StumpedGroups;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
@@ -18,7 +18,7 @@ public class CustomTrapdoorBlock extends CustomBlock {
     public static ArrayList<Block> blocks = new ArrayList<>();
 
     public CustomTrapdoorBlock(String id, boolean isFuel) {
-        super(id, new TrapdoorBlock(FabricBlockSettings.copyOf(Blocks.OAK_TRAPDOOR)), new FabricItemSettings().group(ModGroups.STUMPED_ITEMS));
+        super(id, new TrapdoorBlock(FabricBlockSettings.copyOf(Blocks.OAK_TRAPDOOR)), new FabricItemSettings().group(StumpedGroups.STUMPED_ITEMS));
         Item item = this.getItem();
         if (isFuel) FuelRegistry.INSTANCE.add(item, 300);
         items.add(item);

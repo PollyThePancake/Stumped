@@ -1,7 +1,7 @@
 package io.github.pollythepancake.stumped.blocks.custom.solid_blocks;
 
 import io.github.pollythepancake.stumped.blocks.custom.CustomBlock;
-import io.github.pollythepancake.stumped.util.ModGroups;
+import io.github.pollythepancake.stumped.util.StumpedGroups;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
@@ -18,7 +18,7 @@ public class CustomStairsBlock extends CustomBlock {
     public static ArrayList<Block> blocks = new ArrayList<>();
 
     public CustomStairsBlock(String id, CustomPlanksBlock planks, boolean isFuel) {
-        super(id, new StairsBlock(planks.getBlock().getDefaultState(), FabricBlockSettings.copyOf(Blocks.OAK_STAIRS)), new FabricItemSettings().group(ModGroups.STUMPED_BLOCKS));
+        super(id, new StairsBlock(planks.getBlock().getDefaultState(), FabricBlockSettings.copyOf(Blocks.OAK_STAIRS)), new FabricItemSettings().group(StumpedGroups.STUMPED_BLOCKS));
         Item item = this.getItem();
         if (isFuel) FuelRegistry.INSTANCE.add(item, 300);
         items.add(item);

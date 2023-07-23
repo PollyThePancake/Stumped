@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shield",
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#I#",
+    "###",
+    " # "
+  ],
+  "result": {
+    "item": "stumped:crimson/crimson_shield"
+  }
+}

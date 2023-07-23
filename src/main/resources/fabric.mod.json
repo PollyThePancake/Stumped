@@ -24,6 +24,9 @@
     "client": [
       "io.github.pollythepancake.stumped.ModClientInit"
     ],
+    "fabric-datagen": [
+      "io.github.pollythepancake.stumped.datagen.DataGen"
+    ],
     "terrablender": [
       "io.github.pollythepancake.stumped.ModInit"
     ],

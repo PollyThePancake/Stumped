@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "stumped:araucaria/araucaria_log",
+    "stumped:araucaria/stripped_araucaria_log",
+    "stumped:araucaria/araucaria_wood",
+    "stumped:araucaria/stripped_araucaria_log"
+  ]
+}

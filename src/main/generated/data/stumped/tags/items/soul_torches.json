@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_torch",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air"
+  ]
+}

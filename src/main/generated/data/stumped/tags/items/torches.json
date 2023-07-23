@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:torch",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air",
+    "minecraft:air"
+  ]
+}

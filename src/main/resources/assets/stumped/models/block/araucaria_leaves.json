@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "stumped:block/araucaria_leaves"
+  }
+}

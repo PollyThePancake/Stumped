@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stumped:block/araucaria_slab"
+    },
+    "type=double": {
+      "model": "stumped:block/araucaria_planks"
+    },
+    "type=top": {
+      "model": "stumped:block/araucaria_slab_top"
+    }
+  }
+}

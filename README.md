@@ -1,58 +1,50 @@
-![Stumped](./logo.png)
+![Stumped](https://raw.githubusercontent.com/PollyThePancake/Stumped/main/logo.png)
 
 # Welcome to Stumped
 
-Stumped is a Minecraft Fabric 1.20.4 mod that intends to add new wood types with accompanying blocks and biomes.
+Stumped is a Minecraft Fabric mod that intends to add new wood types with accompanying blocks, items and biomes.
 
-## Current features
+The latest version is v0.1.0-1.20.5.
 
-<details>
-  <summary><h4>Wood types that are added:</h4></summary>
+### Current Wood Types:
 
-- ~~[Araucaria](https://en.wikipedia.org/wiki/Araucaria) (Monkey Puzzle)~~
+- [Araucaria](https://en.wikipedia.org/wiki/Araucaria) (Monkey Puzzle)
 
-</details>
-<details>
-  <summary><h4>Items added for each wood type:</h4></summary>
+#### Each wood type has their own respective set of blocks and items
 
-- ~~Planks~~
-- ~~Logs~~
-- ~~Stripped Logs~~
-- ~~Wood~~
-- ~~Stripped Wood~~
-- ~~Leaves~~
-- ~~Slabs~~
-- ~~Stairs~~
-- ~~Signs~~
-- ~~Doors~~
-- ~~Trapdoors~~
-- ~~Fences~~
-- ~~Fence Gates~~
-- ~~Pressure Plates~~
-- ~~Buttons~~
-- ~~Saplings~~
-- ~~Potted Saplings~~
-- ~~Boats~~
 
-</details>
+<details> <summary><h3>To-do Lists:</h3></summary>
 
-## Features to add for v1.0.0
+#### v0.2.0:
+
+- Boats
+- DataGen (Tags, Recipes etc.)
+
+#### v0.3.0:
+
+- Custom Trees
+- Rework Textures
+
+#### v1.0.0:
 
 - At least 5 wood types in total
 - Biomes for the new trees
 
-## Things I intend to add later down the line
+#### Post v1.0.0:
 
 - Fruit drops or unique drops from certain trees
 - Ice cream, cheesecakes and fruit salads from those new fruits
 - A leaf for every type of tree that can be kept in a book to index them all
-- More variants of the cherry blossom trees
+- More variants of vanilla cherry blossom trees
 
-## Dependency Mods
+</details>
 
-- TBD
+### Dependency Mods:
 
-## Other Links
+- [Fabric API](https://github.com/FabricMC/fabric)
+- [Terraform Wood API](https://github.com/TerraformersMC/Terraform)
+
+### Other Links
 
 - Stumped's [Modrinth](https://modrinth.com/mod/stumped) Page
 - Stumped's [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stumped) Page

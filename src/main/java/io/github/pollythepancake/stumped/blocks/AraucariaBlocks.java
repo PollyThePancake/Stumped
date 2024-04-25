@@ -10,9 +10,12 @@ import io.github.pollythepancake.stumped.blocks.custom.signs.NewWallSignBlock;
 import io.github.pollythepancake.stumped.blocks.custom.solid.*;
 import io.github.pollythepancake.stumped.util.ItemGroups;
 import io.github.pollythepancake.stumped.util.WoodTypes;
+import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
+import net.minecraft.block.Block;
 import net.minecraft.block.BlockSetType;
 import net.minecraft.block.SaplingGenerator;
 import net.minecraft.block.WoodType;
+import net.minecraft.client.render.RenderLayer;
 import net.minecraft.data.family.BlockFamilies;
 import net.minecraft.data.family.BlockFamily;
 import net.minecraft.item.ItemGroup;
@@ -29,7 +32,12 @@ public class AraucariaBlocks {
     public static RegistryKey<ItemGroup> itemGroup = ItemGroups.STUMPED_ITEMS;
 
     // Solid Blocks
-    public static final NewBlock PLANKS = new NewPlanksBlock(name + "_planks", blockGroup);
+    public static final NewBlock PLANKS;
+
+    static {
+        PLANKS = new NewPlanksBlock(name + "_planks", blockGroup);
+    }
+
     public static final NewBlock LOG = new NewLogBlock(name + "_log", blockGroup);
     public static final NewBlock STRIPPED_LOG = new NewLogBlock("stripped_" + name + "_log", LOG, blockGroup);
     public static final NewBlock WOOD = new NewWoodBlock(name + "_wood", blockGroup);
@@ -39,12 +47,12 @@ public class AraucariaBlocks {
     public static final NewBlock STAIRS = new NewStairsBlock(name + "_stairs", PLANKS, blockGroup);
 
     // Complex Blocks
-    public static final NewBlock DOOR = new NewDoorBlock(name + "_door", blockSetType, itemGroup);
-    public static final NewBlock TRAPDOOR = new NewTrapdoorBlock(name + "_trapdoor", blockSetType, itemGroup);
-    public static final NewBlock FENCE = new NewFenceBlock(name + "_fence", itemGroup);
-    public static final NewBlock FENCE_GATE = new NewFenceGateBlock(name + "_fence_gate", woodType, itemGroup);
-    public static final NewBlock PRESSURE_PLATE = new NewPressurePlateBlock(name + "_pressure_plate", blockSetType, itemGroup);
-    public static final NewBlock BUTTON = new NewButtonBlock(name + "_button", blockSetType, itemGroup);
+    public static final NewBlock DOOR = new NewWoodenDoorBlock(name + "_door", blockSetType, itemGroup);
+    public static final NewBlock TRAPDOOR = new NewWoodenTrapdoorBlock(name + "_trapdoor", blockSetType, itemGroup);
+    public static final NewBlock FENCE = new NewWoodenFenceBlock(name + "_fence", itemGroup);
+    public static final NewBlock FENCE_GATE = new NewWoodenFenceGateBlock(name + "_fence_gate", woodType, itemGroup);
+    public static final NewBlock PRESSURE_PLATE = new NewWoodenPressurePlateBlock(name + "_pressure_plate", blockSetType, itemGroup);
+    public static final NewBlock BUTTON = new NewWoodenButtonBlock(name + "_button", blockSetType, itemGroup);
     public static final NewBlock SAPLING = new NewSaplingBlock(name + "_sapling", SaplingGenerator.OAK, itemGroup);
     public static final NewBlock POTTED_SAPLING = new NewPottedSaplingBlock("potted_" + name + "_sapling", SAPLING.getBlock());
 
@@ -57,11 +65,34 @@ public class AraucariaBlocks {
     public static final NewBlock HANGING_SIGN = new NewHangingSignBlock(name + "_hanging_sign", HANGING_SIGN_TEXTURE, HANGING_GUI_SIGN_TEXTURE);
     public static final NewBlock WALL_HANGING_SIGN = new NewWallHangingSignBlock(name + "_wall_hanging_sign", HANGING_SIGN_TEXTURE, HANGING_GUI_SIGN_TEXTURE);
 
-    public static final BlockFamily FAMILY = BlockFamilies.register(PLANKS.getBlock())
+    public static final BlockFamily FAMILY = BlockFamilies.register(
+                    PLANKS.getBlock())
+            .button(BUTTON.getBlock())
+            .fence(FENCE.getBlock())
+            .fenceGate(FENCE_GATE.getBlock())
+            .pressurePlate(PRESSURE_PLATE.getBlock())
             .sign(SIGN.getBlock(), WALL_SIGN.getBlock())
-            .group("wooden").unlockCriterionName("has_planks").build();
+            .slab(SLAB.getBlock())
+            .stairs(STAIRS.getBlock())
+            .door(DOOR.getBlock())
+            .trapdoor(TRAPDOOR.getBlock())
+            .group("wooden")
+            .unlockCriterionName("has_planks")
+            .build();
+
+
+    public static void renderLayerCutout(Block block) {
+        BlockRenderLayerMap.INSTANCE.putBlock(block, RenderLayer.getCutout());
+    }
 
     public static void registerAraucariaBlocks() {
         ModInit.LOGGER.debug("Registering Araucaria Blocks for " + ModInit.MOD_ID);
+
+        renderLayerCutout(SAPLING.getBlock());
+        renderLayerCutout(POTTED_SAPLING.getBlock());
+        renderLayerCutout(LEAVES.getBlock());
+    }
+
+    public static void registerAraucariaBlocksClient() {
     }
 }

@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 public class ModInit implements ModInitializer {
 
     public static final String MOD_ID = "stumped";
-    public static final String MOD_VERSION = "v0.1.0";
+    public static final String MOD_VERSION = "v0.2.0";
     public static final String MINECRAFT_VERSION = "1.20.5";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
@@ -21,7 +21,6 @@ public class ModInit implements ModInitializer {
         ItemGroups.registerItemGroups();
         AraucariaBlocks.registerAraucariaBlocks();
         AraucariaItems.registerAraucariaItems();
-
 
         LOGGER.info("Stumped " + MOD_VERSION + "-" + MINECRAFT_VERSION + " is running!");
     }

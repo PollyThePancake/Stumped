@@ -1,5 +1,6 @@
-package io.github.pollythepancake.stumped.items.custom;
+package io.github.pollythepancake.stumped.items.custom.signs;
 
+import io.github.pollythepancake.stumped.items.custom.NewItem;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;

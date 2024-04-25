@@ -11,47 +11,9 @@
 
   "item.stumped.araucaria_chest_boat": "Araucaria Boat with Chest",
 
-
-
-  "itemGroup.stumped.stumped_blocks": "Stumped Blocks",
-
-
-
-  "_Planks": "Planks",
-
-  "block.stumped.araucaria_planks": "Araucaria Planks",
-
   "_Doors": "Doors",
 
   "block.stumped.araucaria_door": "Araucaria Door",
-
-  "_Logs": "Logs",
-
-  "block.stumped.araucaria_log": "Araucaria Log",
-
-  "_Woods": "Woods",
-
-  "block.stumped.araucaria_wood": "Araucaria Wood",
-
-  "_StrippedLogs": "Stripped Logs",
-
-  "block.stumped.stripped_araucaria_log": "Stripped Araucaria Log",
-
-  "_StrippedWoods": "Stripped Woods",
-
-  "block.stumped.stripped_araucaria_wood": "Stripped Araucaria Wood",
-
-  "_Leaves": "Leaves",
-
-  "block.stumped.araucaria_leaves": "Araucaria Leaves",
-
-  "_Slabs": "Slabs",
-
-  "block.stumped.araucaria_slab": "Araucaria Slab",
-
-  "_Stairs": "Stairs",
-
-  "block.stumped.araucaria_stairs": "Araucaria Stairs",
 
   "_Signs": "Signs",
 
@@ -87,5 +49,43 @@
 
   "_PottedSaplings": "Potted Saplings",
 
-  "block.stumped.potted_araucaria_sapling": "Potted Araucaria Sapling"
+  "block.stumped.potted_araucaria_sapling": "Potted Araucaria Sapling",
+
+
+
+  "itemGroup.stumped.stumped_blocks": "Stumped Blocks",
+
+
+
+  "_Planks": "Planks",
+
+  "block.stumped.araucaria_planks": "Araucaria Planks",
+
+  "_Logs": "Logs",
+
+  "block.stumped.araucaria_log": "Araucaria Log",
+
+  "_Woods": "Woods",
+
+  "block.stumped.araucaria_wood": "Araucaria Wood",
+
+  "_StrippedLogs": "Stripped Logs",
+
+  "block.stumped.stripped_araucaria_log": "Stripped Araucaria Log",
+
+  "_StrippedWoods": "Stripped Woods",
+
+  "block.stumped.stripped_araucaria_wood": "Stripped Araucaria Wood",
+
+  "_Leaves": "Leaves",
+
+  "block.stumped.araucaria_leaves": "Araucaria Leaves",
+
+  "_Slabs": "Slabs",
+
+  "block.stumped.araucaria_slab": "Araucaria Slab",
+
+  "_Stairs": "Stairs",
+
+  "block.stumped.araucaria_stairs": "Araucaria Stairs"
 }

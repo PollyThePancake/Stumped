@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 public class WoodTypes {
 
     public static final BlockSetType ARAUCARIA_BLOCK_SET_TYPE = BlockSetTypeBuilder.copyOf(BlockSetType.OAK)
-            .soundGroup(BlockSoundGroup.FROGLIGHT)
+            .soundGroup(BlockSoundGroup.WOOD)
             .build(new Identifier(ModInit.MOD_ID, "araucaria"));
 
     public static final WoodType ARAUCARIA_WOOD_TYPE = WoodTypeBuilder.copyOf(WoodType.OAK)

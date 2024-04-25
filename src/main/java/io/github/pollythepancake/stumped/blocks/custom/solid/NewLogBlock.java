@@ -16,8 +16,6 @@ public class NewLogBlock extends NewBlock {
     public NewLogBlock(String id, RegistryKey<ItemGroup> group) {
         super(id, new PillarBlock(AbstractBlock.Settings.copy(Blocks.OAK_LOG)), new Item.Settings(), group);
         FuelRegistry.INSTANCE.add(this.getItem(), 300);
-
-
     }
 
     public NewLogBlock(String id, NewBlock base, RegistryKey<ItemGroup> group) {

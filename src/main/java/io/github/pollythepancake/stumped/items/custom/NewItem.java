@@ -11,28 +11,22 @@ import net.minecraft.util.Identifier;
 
 public class NewItem {
 
-    private final String id;
     private final Item item;
-    private final Identifier identifier;
+    private final Identifier id;
 
     public NewItem(String id, Item item, RegistryKey<ItemGroup> group) {
-        this.id = id;
         this.item = item;
-        this.identifier = new Identifier(ModInit.MOD_ID, this.id);
-        Registry.register(Registries.ITEM, this.identifier, this.item);
+        this.id = new Identifier(ModInit.MOD_ID, id);
+        Registry.register(Registries.ITEM, this.id, this.item);
         ItemGroupEvents.modifyEntriesEvent(group).register(entries -> entries.add(item));
-    }
-
-    public String getId() {
-        return this.id;
     }
 
     public Item getItem() {
         return this.item;
     }
 
-    public Identifier getIdentifier() {
-        return this.identifier;
+    public Identifier getId() {
+        return this.id;
     }
 
 }

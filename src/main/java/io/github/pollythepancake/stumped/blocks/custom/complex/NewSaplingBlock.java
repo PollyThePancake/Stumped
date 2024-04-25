@@ -16,7 +16,5 @@ public class NewSaplingBlock extends NewBlock {
     public NewSaplingBlock(String id, SaplingGenerator saplingGenerator, RegistryKey<ItemGroup> group) {
         super(id, new SaplingBlock(saplingGenerator, AbstractBlock.Settings.copy(Blocks.OAK_SAPLING)), new Item.Settings(), group);
         FuelRegistry.INSTANCE.add(this.getItem(), 100);
-
-
     }
 }

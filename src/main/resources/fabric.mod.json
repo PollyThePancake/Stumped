@@ -25,7 +25,7 @@
       "io.github.pollythepancake.stumped.ModClientInit"
     ],
     "fabric-datagen": [
-      "io.github.pollythepancake.stumped.dataGen.DataGen"
+      "io.github.pollythepancake.stumped.dataGen.ModDataGen"
     ]
   },
   "mixins": [

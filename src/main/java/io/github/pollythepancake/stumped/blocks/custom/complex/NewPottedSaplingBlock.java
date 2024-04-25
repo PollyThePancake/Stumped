@@ -10,8 +10,6 @@ public class NewPottedSaplingBlock extends NewBlock {
 
 
     public NewPottedSaplingBlock(String id, Block sapling) {
-        super(id, new FlowerPotBlock(sapling, AbstractBlock.Settings.copy(Blocks.POTTED_OAK_SAPLING).breakInstantly().nonOpaque()));
-
-
+        super(id, new FlowerPotBlock(sapling, AbstractBlock.Settings.copy(Blocks.POTTED_OAK_SAPLING)));
     }
 }

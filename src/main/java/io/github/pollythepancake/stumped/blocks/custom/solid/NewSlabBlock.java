@@ -14,7 +14,7 @@ public class NewSlabBlock extends NewBlock {
 
     public NewSlabBlock(String id, RegistryKey<ItemGroup> group) {
         super(id, new SlabBlock(AbstractBlock.Settings.copy(Blocks.OAK_SLAB)), new Item.Settings(), group);
-        FuelRegistry.INSTANCE.add(this.getItem(), 300);
+        FuelRegistry.INSTANCE.add(this.getItem(), 150);
 
 
     }

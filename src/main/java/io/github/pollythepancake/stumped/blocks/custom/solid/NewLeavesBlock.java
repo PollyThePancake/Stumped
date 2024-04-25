@@ -10,10 +10,7 @@ import net.minecraft.registry.RegistryKey;
 
 public class NewLeavesBlock extends NewBlock {
 
-
     public NewLeavesBlock(String id, RegistryKey<ItemGroup> group) {
         super(id, new LeavesBlock(AbstractBlock.Settings.copy(Blocks.OAK_LEAVES)), new Item.Settings(), group);
-
-
     }
 }

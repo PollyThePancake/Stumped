@@ -5,15 +5,18 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.BlockSetType;
 import net.minecraft.block.Blocks;
-import net.minecraft.block.ButtonBlock;
+import net.minecraft.block.TrapdoorBlock;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.registry.RegistryKey;
 
-public class NewButtonBlock extends NewBlock {
+public class NewWoodenTrapdoorBlock extends NewBlock {
 
-    public NewButtonBlock(String id, BlockSetType blockSetType, RegistryKey<ItemGroup> group) {
-        super(id, new ButtonBlock(blockSetType, 10, AbstractBlock.Settings.copy(Blocks.OAK_BUTTON)), new Item.Settings(), group);
-        FuelRegistry.INSTANCE.add(this.getItem(), 100);
+
+    public NewWoodenTrapdoorBlock(String id, BlockSetType blockSetType, RegistryKey<ItemGroup> group) {
+        super(id, new TrapdoorBlock(blockSetType, AbstractBlock.Settings.copy(Blocks.OAK_TRAPDOOR)), new Item.Settings(), group);
+        FuelRegistry.INSTANCE.add(this.getItem(), 300);
+
+
     }
 }
